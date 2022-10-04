@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32090057646",
+    "project_id": "barajitas-mundial-qatar-344fc",
+    "storage_bucket": "barajitas-mundial-qatar-344fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32090057646:android:2d62abb6ac1ffb9b42363f",
+        "android_client_info": {
+          "package_name": "com.example.barajitasmundialqatar2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32090057646-vloa06b743723i7ml2eot0sksi111bqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD90_RMdPuutHE0xozODSAMMqiEapdTIzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32090057646-vloa06b743723i7ml2eot0sksi111bqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
